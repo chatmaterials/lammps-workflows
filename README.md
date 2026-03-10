@@ -1,5 +1,7 @@
 # lammps-workflows
 
+[![CI](https://img.shields.io/github/actions/workflow/status/chatmaterials/lammps-workflows/ci.yml?branch=main&label=CI)](https://github.com/chatmaterials/lammps-workflows/actions/workflows/ci.yml) [![Release](https://img.shields.io/github/v/release/chatmaterials/lammps-workflows?display_name=tag)](https://github.com/chatmaterials/lammps-workflows/releases)
+
 Standalone skill for LAMMPS input creation, force-field wiring checks, log review, and restart handling.
 
 ## What This Skill Covers
