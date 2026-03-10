@@ -1,0 +1,5 @@
+interface:
+  display_name: "LAMMPS Workflows"
+  short_description: "Set up and check LAMMPS simulation workflows"
+  brand_color: "#B91C1C"
+  default_prompt: "Use $lammps-workflows to prepare, inspect, or debug a LAMMPS workflow."

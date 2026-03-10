@@ -1,0 +1,8 @@
+units metal
+atom_style atomic
+read_data system.data
+pair_style eam/alloy
+pair_coeff * * Cu_u3.eam
+thermo 100
+thermo_style custom step temp pe etotal press
+run 1000
